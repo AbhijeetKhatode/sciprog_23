@@ -1,0 +1,4 @@
+This is code for Practical_5. To compile:
+
+gcc -o AT AT.c
+

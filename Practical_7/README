@@ -1,0 +1,6 @@
+These are codes for Practical_7. TO compile:
+
+gcc -o find_e find_e.c
+
+gcc -o dynamic_allocation dynamic_allocation.c
+

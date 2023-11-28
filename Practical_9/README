@@ -1,0 +1,13 @@
+These are codes for Practical_9. To compile:
+
+gcc -o main_stub main_stub.c
+
+
+
+Or 
+
+
+
+gcc main_stub.c
+
+./a.out

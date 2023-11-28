@@ -1,0 +1,5 @@
+This is code for Practical_8. To compile :
+
+gcc -o gcd gcd.c
+
+
